@@ -35,6 +35,6 @@ I'm from Brazil 🇧🇷 and now I'm looking for an internship to be able to com
 	</a>
 </p>
 
-## Thank you! 👋
+### Thank you! 👋
 
 ![Snake animation](https://github.com/IgorMozetic/IgorMozetic/blob/output/github-contribution-grid-snake.svg)
