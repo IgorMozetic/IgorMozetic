@@ -1,4 +1,4 @@
-#Hey! Welcome to my profile 🥳👋
+# Hey! Welcome to my profile 🥳👋
 
 My name is Igor Domingos da Silva Mozetic 😄 
 
@@ -34,5 +34,5 @@ I'm from Brazil 🇧🇷 and now I'm looking for an internship to be able to com
         <img align="center" style="margin-bottom: 10px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IgorMozetic&theme=ayu-mirage" />
 	</a>
 </p>
-###Thank you! 👋
+### Thank you! 👋
 <!-- <div align="center">![Snake animation](https://github.com/IgorMozetic/IgorMozetic/blob/output/github-contribution-grid-snake.svg)</div> -->
