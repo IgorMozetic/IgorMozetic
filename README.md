@@ -37,4 +37,4 @@ I'm from Brazil 🇧🇷 and now I'm looking for an internship to be able to com
 
 ## Thank you! 👋
 
-<div align="center">![Snake animation](https://github.com/IgorMozetic/IgorMozetic/blob/output/github-contribution-grid-snake.svg)</div>
+![Snake animation](https://github.com/IgorMozetic/IgorMozetic/blob/output/github-contribution-grid-snake.svg)
