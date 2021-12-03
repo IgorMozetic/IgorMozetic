@@ -8,7 +8,7 @@ I'm from Brazil 🇧🇷 and now I'm looking for an internship to be able to com
 
 - I'm currently studying in two schools:  
 	> 3rd year student of Computer Technician at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo; </br>
-	1st semester of Administration Technician at ETEC SP.
+	3st semester of Administration Technician at ETEC SP.
 
     🌱  I’m currently learning about **HTML, CSS, JavaScript, Python, C#** and **Power BI**
     
