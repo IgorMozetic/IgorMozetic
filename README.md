@@ -2,7 +2,7 @@
 
 My name is Igor Domingos da Silva Mozetic 😄 
 
-I'm 16 years old and I'm a student of computer technician integrated to high school 👨‍💻 </br>
+I'm 17 years old and I'm a student of computer technician integrated to high school 👨‍💻 </br>
 
 I'm from Brazil 🇧🇷 and now I'm looking for an internship to be able to complete my course and get my diploma  👨‍🎓
 
