@@ -25,7 +25,7 @@ I'm from Brazil 🇧🇷 and now I'm looking for an internship to be able to com
 <a href="https://t.me/IgorMozetic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" alt="IgorMozetic" height="20" width="20" /></a> <br> 
 </p>
 
-<p>
+<p align="center">
 	<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IgorMozetic&theme=ayu-mirage" />
 	<img align="center" alt="Igor Mozetic Github stats" style="margin-bottom: 10px;" height="165" src="https://github-readme-stats.vercel.app/api?username=IgorMozetic&theme=ayu-mirage&show_icons=true&hide=Jupyter Notebook&count_private=true" />
 </p>
