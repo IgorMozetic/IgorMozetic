@@ -7,7 +7,7 @@ I'm 17 years old and I'm a student of computer technician integrated to high sch
 I'm from Brazil 🇧🇷 and now I'm looking for an internship to be able to complete my course and get my diploma  👨‍🎓
 
 - I'm currently studying in two schools:  
-	> 3rd year student of Computer Technician at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo; </br>
+	> 4rd year student of Computer Technician at the Instituto Federal de Educação, Ciência e Tecnologia de São Paulo; </br>
 	3st semester of Administration Technician at ETEC SP.
 
     🌱  I’m currently learning about **HTML, CSS, JavaScript, Python, C#** and **Power BI**
