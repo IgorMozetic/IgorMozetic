@@ -33,7 +33,7 @@ I'm from Brazil 🇧🇷 and now I'm looking for an internship to be able to com
 </p> -->
 
 ## 💫 About Me:
-👦🏼 My name is Igor Domingos da Silva Mozetic<br>😜 I'm 18 years old<br>🧑‍💻 Full Stack Web Developer<br>🌐 Computer Technician integrated to high school<br><br><br>Let's talk about something, contact me! 📩
+👦🏼 My name is Igor Domingos da Silva Mozetic<br>😜 I'm 20 years old<br>🧑‍💻 Full Stack Web Developer<br>🌐 Computer Science UFABC<br><br><br>Let's talk about something, contact me! 📩
 
 
 ## 🌐 Socials:
